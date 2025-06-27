@@ -2,8 +2,11 @@
 
 
 
-🎮 Features:
-✅ Classic 3x3 Grid Gameplay – Simple and intuitive layout for two players to take turns.
-🔁 Game Reset Button – Easily restart the game after a win or draw.
-🧠 Win/Draw Detection – Automatically checks for win conditions and announces the result.
+## 🎮 Features
+
+- ✅ **Classic 3x3 Grid Gameplay** – Simple and intuitive layout for two players to take turns.
+- 🔁 **Game Reset Button** – Easily restart the game after a win or draw.
+- 🧠 **Win/Draw Detection** – Automatically checks for win conditions and announces the result.
+- 💻 **Built with HTML, CSS & JavaScript** – Lightweight and beginner-friendly project using only core web technologies.
+
 💻 Built with HTML, CSS & JavaScript – Lightweight and beginner-friendly project using only core web technologies.
